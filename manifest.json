@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "Download a facebook album with a click",
   "icons": {
-    "128": "codepen.png"
+    "128": "facebook-album-downloader.png"
   },
   "content_scripts": [
     {
